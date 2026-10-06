@@ -8,6 +8,7 @@
 
 > **粘贴一份 JD、丢进一份简历，30 秒拿到匹配评分、差距分析、定制简历 Bullet、Cover Letter 和 10 道面试预测题。**
 > 所有结论都标注来源（简历哪一段 / JD 哪一条），简历不落库，一键导出 Markdown / PDF。
+🔗 **[在线试用](https://jobfit-ai-ten.vercel.app)** · 🐛 [反馈](https://github.com/zlc607/jobfit-ai/issues)
 
 > 📽 **演示 GIF 待录制** —— 仓库暂未包含 `docs/demo.gif`（不提供伪造的演示素材）。
 > 按 [`docs/DEMO.md`](docs/DEMO.md) 的 60 秒分镜录完后把文件放到 `docs/demo.gif`，

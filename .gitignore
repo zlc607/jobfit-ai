@@ -1,0 +1,48 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# 注意：next-env.d.ts 刻意提交进仓库。
+# Next 会在首次 dev/build 时生成它，但若在首次 build 之前直接跑 `npm run typecheck`（例如 CI），
+# 缺少它会导致 *.css 模块声明与 next 类型引用缺失而报错。
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+
+# 本地导出的分析结果
+/exports/
+
+.vercel
